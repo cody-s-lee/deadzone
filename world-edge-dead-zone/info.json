@@ -1,0 +1,9 @@
+{
+  "name": "world-edge-dead-zone",
+  "version": "0.1.0",
+  "title": "World Edge Dead Zone",
+  "author": "cody-s-lee",
+  "factorio_version": "2.0",
+  "description": "Keeps a band of plain buildable land along the edges of finite-size maps (e.g. ribbon worlds): no resources, water, cliffs, trees, rocks or enemies.",
+  "dependencies": ["base >= 2.0.0", "? space-age"]
+}
